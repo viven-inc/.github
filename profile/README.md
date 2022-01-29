@@ -8,17 +8,26 @@ VIVEN, Inc. is a education software company in Tokyo, Japan. The company is co-f
   <a href="mailto:contact@viven.inc" style="text-decoration:none">
     <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="http://www.viven.inc/" style="text-decoration:none">
-    <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/company/viven-inc" style="text-decoration:none">
     <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://www.viven.inc/" style="text-decoration:none">
+    <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
   </a>
   <a href="https://github.com/viven-inc" style="text-decoration:none">
     <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/viven_inc" style="text-decoration:none">
     <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.twitter.com/viven_inc" style="text-decoration:none">
+    <img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/viven.inc" style="text-decoration:none">
+    <img height="30" src = "https://img.shields.io/badge/facebook-%234285f4.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UCH0Rx5bfUN7WF5WiSOoE37w" style="text-decoration:none">
+    <img height="30" src = "https://img.shields.io/badge/youtube-%23282828.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 <br />
 
