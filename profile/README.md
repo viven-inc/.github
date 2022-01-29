@@ -21,13 +21,13 @@ VIVEN, Inc. is a education software company in Tokyo, Japan. The company is co-f
     <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
   <a href="https://www.twitter.com/viven_inc" style="text-decoration:none">
-    <img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+    <img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
   <a href="https://www.facebook.com/viven.inc" style="text-decoration:none">
-    <img height="30" src = "https://img.shields.io/badge/facebook-%234285f4.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+    <img height="30" src = "https://img.shields.io/badge/facebook-%234285f4.svg?&style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
   <a href="https://www.youtube.com/channel/UCH0Rx5bfUN7WF5WiSOoE37w" style="text-decoration:none">
-    <img height="30" src = "https://img.shields.io/badge/youtube-%23282828.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+    <img height="30" src = "https://img.shields.io/badge/youtube-%23282828.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 <br />
 
