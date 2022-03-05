@@ -2,7 +2,7 @@
 
 ![Company Photo](https://github.com/viven-inc/.github/blob/main/image/viven_long_logo_v2.jpg)
 
-VIVEN, Inc. is a education software company in Tokyo, Japan. The company is co-founded by [Shintaro Yoshida](https://github.com/cin-chan) and [Tsuyoshi Okawa](https://github.com/ogrenci-jp). We provide the software "Murutoki" for university lecture, research laboratory. This software enable all the information related with meeting in one place. We release this software on Feb 4 as a Beta Release. If you have any question, feel free to contact us. 
+VIVEN, Inc. is a education software company in Tokyo, Japan. The company is co-founded by [Shintaro Yoshida](https://github.com/cin-chan) and [Tsuyoshi Okawa](https://github.com/ogrenci-jp). We provide the software "Murutoki" for university lecture, research laboratory. This software enable all the information related with meeting in one place. We release this software on Mar 24(Fri) as a Beta Release. If you have any question, feel free to contact us. 
 
 <p align="left">
   <a href="mailto:contact@viven.inc" style="text-decoration:none">
