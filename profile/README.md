@@ -6,7 +6,9 @@ VIVEN, Inc. is a education software company in Tokyo, Japan. The company is co-f
 
 ![Murutoki Logo](https://github.com/viven-inc/.github/blob/main/image/murutoki_logo.png)
 
-<img src="https://github.com/viven-inc/.github/blob/main/image/murutoki_logo.png" width="400px">
+<a href="https://www.murutoki.com" target="_blank">
+  <img src="https://github.com/viven-inc/.github/blob/main/image/murutoki_logo.png" width="400px">
+</a>
 
 <p align="left">
   <a href="mailto:contact@viven.inc" style="text-decoration:none">
