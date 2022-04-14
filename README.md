@@ -1,4 +1,4 @@
-# .github
+# Github Profile of [VIVEN, Inc.](https://www.viven.inc)
 
 *Community health files for the @GitHub organization*
 
