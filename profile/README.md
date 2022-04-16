@@ -1,10 +1,10 @@
 ## Hey, this is [VIVEN, Inc.](https://www.viven.inc) 👋
 
 <div style="display: flex">
-  <a href="https://www.viven.inc" target="_blank" style="width: 50%;">
+  <a href="https://www.viven.inc" target="_blank" width="50%">
     <img src="https://github.com/viven-inc/.github/blob/main/image/viven_long_logo_v2.jpg" width="50%" alt="VIVEN, Inc. logo">
   </a>
-  <a href="https://www.murutoki.com" target="_blank" style="display: inline-block; width: 50%;">
+  <a href="https://www.murutoki.com" target="_blank" width="50%" style="display: inline-block;">
     <img src="https://github.com/viven-inc/.github/blob/main/image/murutoki_logo.png" width="50%" alt="Murutoki Logo">
   </a>
 </div>
