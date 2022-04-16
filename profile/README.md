@@ -8,7 +8,7 @@ VIVEN, Inc. is a education software company in Tokyo, Japan. The company is co-f
 
 ### 🎋 Murutoki 
 
-We provide the software "Murutoki" for university, research laboratory. This software enable students 🧑‍🎓 look for the information on demand 🍰 and multi-way communication 💬 . You can check the Murutoki from the image below. If you have any question, feel free to contact us. 
+We provide the software "Murutoki" for university, research laboratory. This software enable students 🧑‍🎓 look for the lecture information on demand 🍰 and multi-way communication during the lecture 💬 . You can check the Murutoki from the image below. If you have any question, feel free to contact us. 
 
 <a href="https://www.murutoki.com" target="_blank">
   <img src="https://github.com/viven-inc/.github/blob/main/image/murutoki_logo.png" width="70%" alt="Murutoki Logo">
