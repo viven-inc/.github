@@ -1,6 +1,6 @@
 ## Hey, this is [VIVEN, Inc.](https://www.viven.inc) 👋
 
-<div>
+<div style="display: flex">
   <a href="https://www.viven.inc" target="_blank">
     <img src="https://github.com/viven-inc/.github/blob/main/image/viven_long_logo_v2.jpg" width="50%" alt="VIVEN, Inc. logo">
   </a>
