@@ -1,7 +1,7 @@
 # [株式会社 微分 (VIVEN, Inc.) ](https://www.viven.inc)
 
 <a href="https://madamebulgaria.com/veliko-tarnovo-queen-bulgarian-cities/" target="_blank">
-  <img src="https://github.com/viven-inc/.github/blob/main/image/veliko.jpg" width="100%" alt="veliko tarnovo">
+  <img src="https://github.com/viven-inc/.github/blob/main/image/veliko.png" width="100%" alt="veliko tarnovo">
   <div>Reference from madamebulgaria.com</div>
 </a>
 
